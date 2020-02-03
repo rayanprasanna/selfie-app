@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Selfie Guru</string>
+    <string name="activity_title_main">Filters</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">FILTERS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Please Sign In Your Google Account !</string>
+    <string name="likes">Likes</string>
+    <string name="facebook_app_id">2755869557786475</string>
+    <string name="facebook_login_protocol_scheme">fb2755869557786475</string>
+
+    <string name="banner_ad_id">ca-app-pub-3505600525587058/9420717344</string>
+    <string name="inst_ad_id">NOT_SETUP</string>
+    <string name="ads_app_id">ca-app-pub-3505600525587058~3430024068</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sms_dis_msg">Do you like to receive tips to take a creative successful sellfie?</string>
+</resources>

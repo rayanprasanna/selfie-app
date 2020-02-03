@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/app_name"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_user_w"
+        android:title="@string/app_name"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/power"
+        android:icon="@drawable/ic_power_w"
+        android:title="@string/app_name"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+</menu>

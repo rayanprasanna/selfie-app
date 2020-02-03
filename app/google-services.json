@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269284746742",
+    "firebase_url": "https://selfieguru-d92b4.firebaseio.com",
+    "project_id": "selfieguru-d92b4",
+    "storage_bucket": "selfieguru-d92b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269284746742:android:95d51bde7770655d",
+        "android_client_info": {
+          "package_name": "com.universl.selfieguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269284746742-c5ss3kqb1c0i4909hddddcstisrnatmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.universl.selfieguru",
+            "certificate_hash": "b7ad86d7d45cc3ff74ef2b4efcf66ef08e534096"
+          }
+        },
+        {
+          "client_id": "269284746742-f05qk1uo25gbrp7p0jgqko7o1qg4ppml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJN2bCWh2jhbmo8KPZzyvSQCDgqYfj5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269284746742-f05qk1uo25gbrp7p0jgqko7o1qg4ppml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
